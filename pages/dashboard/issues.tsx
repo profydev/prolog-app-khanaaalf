@@ -5,7 +5,7 @@ import type { NextPage } from "next";
 const IssuesPage: NextPage = () => {
   return (
     <PageContainer
-      title="Issues"
+      title="This is khan Issues"
       info="Overview of errors, warnings, and events logged from your projects."
     >
       <IssueList />
